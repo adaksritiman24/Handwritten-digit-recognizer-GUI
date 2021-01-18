@@ -21,3 +21,6 @@ Accuracy on testing data-96.17%
 Accuracy on real-time usage ~78%
 
 ## Screenshots:
+![pic1](https://user-images.githubusercontent.com/53531220/104904664-6b53da00-59a7-11eb-8489-1e8b5baaf6b0.JPG)
+![pic2](https://user-images.githubusercontent.com/53531220/104904673-6ee76100-59a7-11eb-907c-961669a8ab5f.JPG)
+![pic3](https://user-images.githubusercontent.com/53531220/104904681-71e25180-59a7-11eb-9731-7e89145512c0.JPG)
